@@ -10,5 +10,8 @@ torchvision>=0.8.1,!=0.13.0
 tqdm>=4.41.0
 protobuf<4.21.3
 transformers==4.37.0
+timm
+albumentations
 accelerate
+Pillow
 uvicorn[standard]
